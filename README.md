@@ -10,3 +10,4 @@ if guess == secret_number:
     print("Правильно! Молодец!")
 else:
     print("Неправильно. Я загадал число", secret_number)
+git checkout имя_другой_ветки
